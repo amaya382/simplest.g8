@@ -2,6 +2,7 @@ package $package$
 
 object $classname$ {
   def main(args: Array[String]): Unit = {
-    println("Hello World")
+    val message = "Hello World"
+    println(message)
   }
 }
