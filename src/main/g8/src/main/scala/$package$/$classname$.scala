@@ -1,6 +1,6 @@
-package example
+package $package$
 
-object Simplest {
+object $classname$ {
   def main(args: Array[String]): Unit = {
     println("Hello World")
   }
